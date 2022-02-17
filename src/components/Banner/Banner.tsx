@@ -45,7 +45,7 @@ const Banner = () => {
             }}
             className="mainHeading"
           >
-            Crypto Hunter
+            Crypto Quest
           </Typography>
           <Typography
             variant="subtitle2"
