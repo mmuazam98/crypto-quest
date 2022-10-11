@@ -16,7 +16,8 @@ https://crypto-quest-app.web.app
 
 https://api.coingecko.com
 
-
 ## `UI`
 
 <img src="./public/UI.png" />
+
+<img src="./public/UI-2.png" />
